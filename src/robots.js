@@ -34,5 +34,5 @@ export const robots = [
 		name: 'Kataraina Assassin',
 		username: 'kassassin',
 		email: 'kassassin@gmail.com'
-	},
+	}
 ];
